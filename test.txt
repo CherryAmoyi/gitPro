@@ -1,10 +1,2 @@
-<DocumentElement>
-	<AccessKey>A69F928A9D85E75DCFB5BAA282FC6B776A7231BBF5</AccessKey>
-	<methodName>getInPatient</methodName>
-	<DataTable>
-		<branchCode/>
-		<patName>周锐芬</patName>
-		<patCardType>5</patCardType>
-		<patCardNo>440111460213093</patCardNo>
-	</DataTable>
-</DocumentElement>
+test 
+12:27
